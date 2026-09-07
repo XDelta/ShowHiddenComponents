@@ -1,6 +1,8 @@
 # ShowHiddenComponents
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that shows components that are marked as hidden.
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that shows components that are marked as hidden. 
+
+All 'hidden' components will be shown in a 'Hidden' Category in the component browser. The Resonite wiki has a list of components this should affect https://wiki.resonite.com/Category:Components:Hidden
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).

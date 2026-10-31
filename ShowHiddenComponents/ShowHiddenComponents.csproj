@@ -23,7 +23,7 @@
 	</ItemDefinitionGroup>
 	
 	<ItemGroup>
-		<PackageReference Include="ResoniteModLoader" Version="5.0.1" />
+		<PackageReference Include="ResoniteModLoader" Version="5.0.2" />
 		<Reference Include="FrooxEngine" HintPath="$(ResonitePath)FrooxEngine.dll" />
 	</ItemGroup>
 
